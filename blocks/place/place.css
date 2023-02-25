@@ -1,4 +1,5 @@
 .place {
+<<<<<<< HEAD
   padding: 40px 0;
   display: grid;
   grid-template-columns: 460px 1fr;
@@ -26,5 +27,37 @@
     padding: 24px 0;
     grid-template-columns: minmax(288px, 1fr);
     grid-gap: 32px;
+=======
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  gap: 48px 40px;
+  padding-bottom: 80px;
+}
+
+.place:last-of-type {
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: 1140px) {
+  .place {
+    grid-template-columns: 440px 1fr;
+    gap: 48px 32px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .place {
+    grid-template-columns: 340px 1fr;
+    gap: 48px 28px;
+    padding-bottom: 73px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .place {
+    grid-template-columns: 100%;
+    gap: 16px;
+    padding-bottom: 50px;
+>>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
   }
 }

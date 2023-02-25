@@ -1,6 +1,14 @@
 .header__links {
+<<<<<<< HEAD
   padding: 0;
   margin: 0;
   list-style: none;
   display: flex;
+=======
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  align-items: flex-end;
+>>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
 }

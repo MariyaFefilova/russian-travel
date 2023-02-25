@@ -1,3 +1,7 @@
 .header__link_active {
+<<<<<<< HEAD
   text-decoration: underline;
+=======
+  text-decoration-line: underline;
+>>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
 }
