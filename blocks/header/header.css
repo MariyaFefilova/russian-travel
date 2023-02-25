@@ -1,5 +1,4 @@
 .header {
-<<<<<<< HEAD
   max-width: 1184px;
   margin: 0 auto;
   padding: 28px 48px 56px 48px;
@@ -25,22 +24,4 @@
   .header {
     padding: 16px 16px 48px 16px;
   }
-=======
-    display: flex;
-    width: calc(100% - 2 * 48px);
-    margin: 0 auto;
-    justify-content: space-between;
-}
-
-@media screen and (max-width: 984px) {
-    .header {
-        width: calc(100% - 2 * 24px);
-    }
-}
-
-@media screen and (max-width: 568px) {
-    .header {
-        width: calc(100% - 2 * 16px);
-    }
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
 }

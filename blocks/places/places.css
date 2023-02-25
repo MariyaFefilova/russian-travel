@@ -1,5 +1,4 @@
 .places {
-<<<<<<< HEAD
   background-color: #2A2C2F;
   max-width: 984px;
   margin: 0 auto;
@@ -22,30 +21,5 @@
   .places {
     padding-bottom: 40px;
     max-width: 320px;
-=======
-  display: flex;
-  flex-direction: column;
-  max-width: calc(100% - 2 * 148px);
-  margin: 0 auto;
-  align-items: center;
-}
-
-@media screen and (max-width: 1140px) {
-  .places {
-    max-width: calc(100% - 2 * 48px);
-  }
-}
-
-@media screen and (max-width: 984px) {
-  .places {
-    max-width: calc(100% - 2 * 24px);
-  }
-}
-
-@media screen and (max-width: 568px) {
-  .places {
-    max-width: 100%;
-    padding-top: 0;
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
   }
 }

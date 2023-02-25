@@ -1,5 +1,4 @@
 @import url('../vendor/normalize.css');
-<<<<<<< HEAD
 @import url('../fonts/fonts.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/header/header.css');
@@ -8,17 +7,6 @@
 @import url('../blocks/header/__link/header__link.css');
 @import url('../blocks/header/__link/_active/header__link_active.css');
 @import url('../blocks/header/__links/header__links.css');
-=======
-@import url('../fonts/font.css');
-@import url('../blocks/page/page.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/__logo/header__logo.css');
-@import url('../blocks/header/__lang/header__lang.css');
-@import url('../blocks/header/__link/header__link.css');
-@import url('../blocks/header/__link/_active/header__link_active.css');
-@import url('../blocks/header/__links/header__links.css');
-@import url('../blocks/content/content.css');
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
@@ -30,25 +18,16 @@
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__span/intro__span.css');
 @import url('../blocks/intro/__list/intro__list.css');
-<<<<<<< HEAD
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__list/photo-grid__list.css');
 @import url('../blocks/photo-grid/__image/photo-grid__image.css');
-=======
-@import url('../blocks/intro/__article/intro__article.css');
-@import url('../blocks/photo-grid/photo-grid.css');
-@import url('../blocks/photo-grid/__item/photo-grid__item.css');
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
 @import url('../blocks/places/places.css');
 @import url('../blocks/place/place.css');
 @import url('../blocks/place/__website/place__website.css');
 @import url('../blocks/place/__url/place__url.css');
 @import url('../blocks/place/__title/place__title.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
-<<<<<<< HEAD
 @import url('../blocks/place/__paragraphs/place__paragraphs.css');
-=======
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
 @import url('../blocks/place/__link/place__link.css');
 @import url('../blocks/place/__image/place__image.css');
 @import url('../blocks/cover/cover.css');
@@ -59,9 +38,5 @@
 @import url('../blocks/footer/__links/footer__links.css');
 @import url('../blocks/footer/__link/footer__link.css');
 @import url('../blocks/footer/__link-item/footer__link-item.css');
-<<<<<<< HEAD
 @import url('../blocks/footer/__copyright/footer__copyright.css');
 * { outline: 1px solid yellow; }
-=======
-@import url('../blocks/footer/__copyright/footer__copyright.css');
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf

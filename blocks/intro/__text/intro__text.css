@@ -1,5 +1,4 @@
 .intro__text {
-<<<<<<< HEAD
   max-width: 690px;
   margin: 0 0 32px 0;
   font-family: 'Inter', Arial, sans-serif;
@@ -8,11 +7,4 @@
   font-size: 16px;
   line-height: 1.62;
   color: #FFFFFF;
-=======
-  margin-top: 40px;
-  font-size: 16px;
-  line-height: 1.63;
-  font-weight: 400;
-  font-style: normal;
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
 }

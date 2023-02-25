@@ -1,15 +1,8 @@
 .footer__link-item {
-<<<<<<< HEAD
-=======
-  display: flex;
-  justify-content: space-around;
-  text-align: center;
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
   margin-right: 18px;
 }
 
 .footer__link-item:last-of-type {
-<<<<<<< HEAD
   margin-right: 0;
 }
 
@@ -20,17 +13,5 @@
   }
   .footer__link-item:last-of-type {
     margin-bottom: 0;
-=======
-  margin: 0;
-}
-
-@media screen and (max-width: 568px) {
-  .footer__link-item {
-    margin: 0 0 32px;
-  }
-
-  .footer__link-item:last-of-type {
-    margin-bottom: 48px;
->>>>>>> 5bd6b12e894a183c5a03c42e937534ad7faedadf
   }
 }
